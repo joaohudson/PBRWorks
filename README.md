@@ -5,7 +5,7 @@ Trabalho da disciplina: Tópicos Especiais em Computação.
 Framewrok disponibilizado pelo professor: Christian Azambuja Pagot
 
 O trabalho final completo se encontra no último diretório(Work3),
-e a imagem final gerada, bem como o relatório do projeto, no diretório
+já a imagem final gerada, bem como o relatório do projeto, no diretório
 corrente.
 
 Referêcias:
