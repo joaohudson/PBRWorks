@@ -1,5 +1,6 @@
 Renderer path tracing
 Trabalho da disciplina: Tópicos Especiais em Computação.
+
 Framewrok disponibilizado pelo professor: Christian Azambuja Pagot
 
 O trabalho final completo se encontra no último diretório(Work3),
